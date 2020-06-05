@@ -1,8 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Zilla+Slab:300,400');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+
 body {
-    padding: 50px;
-    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    background: -webkit-linear-gradient(to right, #64b3f4, #c2e59c);
+    background: linear-gradient(to right, #64b3f4, #c2e59c);
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
 }
+
 
 a {
     color: #00B7FF;
+    font: 14px;
+    
 }
+p {
+    
+    color: black;
+    padding-left: 20px;
+}
+h2 {
+    color: cornsilk;
+  
+}
+
+
